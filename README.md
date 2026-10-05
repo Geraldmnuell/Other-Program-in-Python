@@ -1,6 +1,6 @@
-# Other-Program-in-Python
+# Other Program in Python
 
 ## Challange Program
 ## Quiz
-## Train tipis tipis:v
+## Simple Case Study 
 ## OOP S3
